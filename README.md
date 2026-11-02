@@ -22,7 +22,7 @@ User Voice → Microphone → Speech Recognition → NLP → Intent Detection �
 <img width="864" height="576" alt="image" src="https://github.com/user-attachments/assets/6d969197-8eba-4359-b84d-b050a38806e7" />
 
 # AI-ENABLED SMART SPEAKERS
-Examples:
+Examples:             
 •	Amazon Echo – Alexa              
 •	Google Nest – Google Assistant              
 •	Apple HomePod – Siri              
